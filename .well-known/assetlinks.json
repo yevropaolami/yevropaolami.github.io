@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.yevropaolami.millioner",
-        "sha256_cert_fingerprints": ["77:71:2A:FF:30:A3:A9:63:CF:D9:5D:B2:EE:B4:43:88:71:E0:AE:80:23:1D:66:60:6C:42:35:19:6E:AB:BA:DF"]
+        "sha256_cert_fingerprints": ["DE:FE:5A:55:7B:CA:94:56:32:9B:9B:88:02:D9:DE:90:4B:DD:F7:F3:72:E1:03:B2:84:ED:B2:17:72:6F:A2:76"]
       }
     }]
