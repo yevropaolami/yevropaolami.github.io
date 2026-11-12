@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.yevropaolami.millioner",
+        "sha256_cert_fingerprints": ["77:71:2A:FF:30:A3:A9:63:CF:D9:5D:B2:EE:B4:43:88:71:E0:AE:80:23:1D:66:60:6C:42:35:19:6E:AB:BA:DF"]
+      }
+    }]
